@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Yuvasri
 
-<!--
-**Yuvasri200408/Yuvasri200408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Skilled in data cleaning, exploratory data analysis (EDA), feature engineering, and dashboard development.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL
+
+- Joins
+- Subqueries
+- CTEs
+- Window Functions
+
+Python
+
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+
+Power BI
+
+- Data Modeling
+- DAX
+- Dashboard Design
+
+Excel
+
+- Pivot Tables
+- Power Query
+- XLOOKUP
+
+Featured Projects
+
+- E-Commerce Sales & Customer Behavior Analysis
+- Customer Churn Analysis
+- Bank Loan Risk Analysis
+
+Contact
+
+- LinkedIn: (Add later)
+- Email: yuvasri24ba@gmail.com
+
+
