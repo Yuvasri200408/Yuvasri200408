@@ -1,47 +1,48 @@
 # Hi, I'm Yuvasri
 
-## Aspiring Data Analyst
+Aspiring Data Analyst skilled in **SQL, Python, Excel, and Power BI**, with hands-on experience building end-to-end analytics projects across **Credit Risk Analytics, Customer Analytics, and Sales Analytics**.
 
-Aspiring Data Analyst specializing in **Business Intelligence, Customer Analytics, and Credit Risk Analytics**. Experienced with **SQL, Python, Power BI, and Excel** to clean, analyze, and visualize business data through end-to-end analytics projects.
+I transform raw data into actionable business insights through data cleaning, exploratory data analysis (EDA), feature engineering, SQL analytics, KPI development, and interactive dashboard design.
 
 ---
 
 ## Technical Skills
 
-### SQL (MySQL)
+### Programming & Data Analysis
 
-* Data Cleaning & Validation
+* Python (Pandas, NumPy)
+* SQL (MySQL)
+
+### Data Visualization & Reporting
+
+* Power BI
+* Microsoft Excel
+
+### Analytics & Business Intelligence
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Transformation
+* Feature Engineering
+* KPI Development
+* Business Performance Analysis
+* Dashboard Design & Storytelling
+* Business Insight Generation
+
+### SQL Concepts
+
 * JOINs
+* Aggregations
 * Subqueries
 * Common Table Expressions (CTEs)
 * Window Functions
 * Views
-* Business Analytics
 
-### Python
+### Tools
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Data Wrangling
-
-### Power BI
-
-* Data Modeling
-* DAX
-* KPI Reporting
-* Interactive Dashboard Development
-* Business Intelligence
-
-### Excel
-
-* Pivot Tables
-* Power Query
-* XLOOKUP
-* Data Analysis
+* Git
+* GitHub
+* Jupyter Notebook
+* MySQL
 
 ---
 
@@ -49,23 +50,49 @@ Aspiring Data Analyst specializing in **Business Intelligence, Customer Analytic
 
 ### [Banking Loan Risk & Credit Analytics](https://github.com/Yuvasri200408/Banking-loan-risk-credit-analytics)
 
-Analyzed **44,993** loan applications using SQL, Python, and Power BI to evaluate borrower risk, engineer analytical features, identify default patterns, and develop executive dashboards supporting data-driven lending decisions.
+Analyzed **44,993** loan applications to evaluate borrower risk, identify default patterns, engineer analytical features, and develop executive Power BI dashboards supporting data-driven lending decisions.
 
 ---
 
 ### [Customer Churn Analysis](https://github.com/Yuvasri200408/customer-churn-analysis)
 
-Analyzed **7,032** customer records using SQL, Python, and Power BI to identify churn drivers, uncover customer behavior patterns, and deliver retention-focused business insights through interactive dashboards.
+Analyzed **7,032** customer records to identify churn drivers, understand customer behavior, evaluate retention opportunities, and develop interactive dashboards supporting customer retention strategies.
 
 ---
 
-### [E-Commerce Sales Analytics](https://github.com/Yuvasri200408/)
+### [E-Commerce Sales & Customer Insights Dashboard](https://github.com/Yuvasri200408/YOUR-ECOMMERCE-REPOSITORY)
 
-Integrated and analyzed **100,000+** customer, order, and payment records using SQL, Python, Excel, and Power BI to evaluate sales performance, customer purchasing behavior, payment trends, and regional business performance.
+Integrated and analyzed **100,000+** customer, order, and payment records to evaluate sales performance, customer purchasing behavior, payment trends, and regional business performance through SQL analysis and interactive Power BI dashboards.
 
 ---
 
-## Contact
+## Core Competencies
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis
+* Feature Engineering
+* SQL Query Development
+* Data Visualization
+* Dashboard Development
+* Business Intelligence Reporting
+* Customer Analytics
+* Credit Risk Analytics
+* Sales Analytics
+* KPI Reporting
+
+---
+
+## Currently Expanding Knowledge
+
+* Advanced SQL Optimization
+* Power BI Data Modeling
+* DAX
+* Statistics for Data Analytics
+* Business Intelligence Best Practices
+
+---
+
+## Connect With Me
 
 **GitHub:**
 https://github.com/Yuvasri200408
@@ -73,4 +100,9 @@ https://github.com/Yuvasri200408
 **Email:**
 [yuvasri24ba@gmail.com](mailto:yuvasri24ba@gmail.com)
 
+
 **LinkedIn:** https://www.linkedin.com/in/yuvasri
+
+---
+
+Open to **Data Analyst**, **Business Analyst**, and **Business Intelligence Analyst** opportunities.
