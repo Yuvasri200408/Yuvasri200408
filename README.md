@@ -60,7 +60,7 @@ Analyzed **7,032** customer records to identify churn drivers, understand custom
 
 ---
 
-### [E-Commerce Sales & Customer Insights Dashboard](https://github.com/Yuvasri200408/YOUR-ECOMMERCE-REPOSITORY)
+### [E-Commerce Sales & Customer Insights Dashboard](https://github.com/Yuvasri200408/e-commerce-sales-dashboard)
 
 Integrated and analyzed **100,000+** customer, order, and payment records to evaluate sales performance, customer purchasing behavior, payment trends, and regional business performance through SQL analysis and interactive Power BI dashboards.
 
