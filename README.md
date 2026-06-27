@@ -48,7 +48,7 @@ I transform raw data into actionable business insights through data cleaning, ex
 
 ## Featured Projects
 
-### [Banking Loan Risk & Credit Analytics](https://github.com/Yuvasri200408/E-commerce-sales-customer-insights-analytics)
+### [Banking Loan Risk & Credit Analytics](https://github.com/Yuvasri200408/banking-loan-risk-credit-analytics)
 
 Analyzed **44,993** loan applications to evaluate borrower risk, identify default patterns, engineer analytical features, and develop executive Power BI dashboards supporting data-driven lending decisions.
 
