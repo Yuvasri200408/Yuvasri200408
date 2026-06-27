@@ -100,7 +100,8 @@ https://github.com/Yuvasri200408
 **Email:**
 [yuvasri24ba@gmail.com](mailto:yuvasri24ba@gmail.com)
 
-**LinkedIn:** [Yuvasri V](https://www.linkedin.com/in/yuvasri2004)
+**LinkedIn**
+[LinkedIn](https://www.linkedin.com/in/yuvasri2004)
 
 ---
 
